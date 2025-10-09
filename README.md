@@ -2,7 +2,7 @@
 
 Comprehensive spam classification notebook and reproducible pipeline. This repository contains the primary analysis and model development artifacts in `SPAM CLASSIFICATION FINAL.ipynb` along with documentation and dependency hints.
 
-## One-line summary (CV-ready)
+## One-line summary 
 
 Developed an end-to-end spam detection pipeline (data ingestion, advanced text featurization, stacking ensembles, calibration, and reproducible experiment tracking) implemented in a Jupyter notebook. Implemented TF-IDF and character n-gram feature engineering, engineered heuristic features (URL counts, punctuation density, uppercase ratios), and conducted stratified cross-validation and model stacking to optimize ROC-AUC and high-precision operating points.
 
